@@ -1,0 +1,4 @@
+# LineageOS build target list
+# <device> <build_type> <branch name> [period: "W"eekly] <Day: 1 Monday - 7 Sunday>
+
+klte userdebug bp-14.1 W 3 
